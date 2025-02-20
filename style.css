@@ -1,3 +1,4 @@
+
 main > img{
     width: 200px;
     float: right;
@@ -6,3 +7,18 @@ main > img{
 *{
     box-sizing: border-box;
 }
+footer{
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.image-link{
+    max-width: 100%;
+    height: auto;
+    margin: 0 10px;
+}
+body{
+    background-color: rgb(147, 26, 26);
+    color: rgb(255, 255, 255);
+  }
