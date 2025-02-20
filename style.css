@@ -1,0 +1,8 @@
+main > img{
+    width: 200px;
+    float: right;
+    margin: 10px;
+}
+*{
+    box-sizing: border-box;
+}
