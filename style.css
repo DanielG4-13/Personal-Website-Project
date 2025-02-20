@@ -14,16 +14,16 @@ footer{
     text-align: center;
 }
 .image-link{
-    max-width: 100%;
+    width: 45px;
     height: auto;
-    margin: 0 10px;
+    margin: 10px;
 }
 body{
     background-color: rgb(147, 26, 26);
     color: rgb(255, 255, 255);
   }
 main{
-    min-height: 100vh;
+    min-height: 80vh;
     padding: 85px 24px 96px;
     box-shadow: 0 0 12px -2px black;
     color: aliceblue;
