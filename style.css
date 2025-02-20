@@ -9,3 +9,8 @@ footer{
     height: auto;
     margin: 0 10px;
 }
+body{
+    background-color: rgb(147, 26, 26);
+    color: rgb(255, 255, 255);
+    
+}
