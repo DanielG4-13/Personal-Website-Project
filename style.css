@@ -50,3 +50,10 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+.project {
+    background: #fafafa;
+    color: #222;
+    box-shadow: 0 3px 6px -2px #ccc;
+    margin: 2em auto;
+    padding: 1em;
+}
