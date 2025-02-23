@@ -1,6 +1,8 @@
-console.log('Hello World!');
-console.log('This is Daniel Garibay');
-console.log('In the Flesh');
-console.log('-ish');
+const form = document.querySelector('#form')
+const submitButton = document.querySelector('#submit')
 
-
+form.addEventListener('submit', (e) => {
+  submitButton.disabled = true
+  e.preventDefault()
+  window.location.href = window.location.origin + '/success.html'
+})
